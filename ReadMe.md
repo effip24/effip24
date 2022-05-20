@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ephraim(Effi)</h1>
-<h3 align="center">A passionate Web developer from Israel</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/effip) 
