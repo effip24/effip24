@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ephraim(Effi)</h1>
+![Header](./github-header-image.png)
 <h3 align="center">A passionate Web developer</h3>
 
 ## 🌐Socials
